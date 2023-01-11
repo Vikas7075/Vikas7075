@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400"  src=" https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif " >
 
-- 🌱 I’m currently learning **AI & Machine Learning**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://vikasprajapati.netlify.app/](https://vikasprajapati.netlify.app/)
 
